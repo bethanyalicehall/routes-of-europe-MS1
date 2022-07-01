@@ -78,11 +78,6 @@ nav {
     .hero-h1 {
       font-size: calc(1.525rem + 3.3vw);
     }
-    
-    .section-p {
-      padding: 0.5rem;
-      margin: 0;
-    }
   }
 
 #whoWeAre {
