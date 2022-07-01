@@ -101,3 +101,8 @@ nav {
 #quotes {
  font-style: italic;
 }
+
+form {
+  background-color: rgba(24, 119, 149, 0.3);
+}
+
