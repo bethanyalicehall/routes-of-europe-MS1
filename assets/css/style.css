@@ -136,6 +136,7 @@ nav {
 
 form {
   background-color: rgba(24, 119, 149, 0.3);
+  font-family: 'Roboto Flex', sans-serif;
 }
 
 @media screen and (max-width: 960px) {
