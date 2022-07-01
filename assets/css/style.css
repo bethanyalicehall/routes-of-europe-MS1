@@ -125,3 +125,40 @@ form {
     order: 3;
   }
 }
+
+#footer {
+  font-size: 1.5rem;
+}
+
+#copyright {
+  text-align:center;
+  font-size:1.5rem;
+}
+
+.socials {
+  list-style-type: none;
+  text-align: right;
+}
+
+.socials li {
+  display:inline;
+  margin:1rem;
+  font-size:2rem;
+}
+
+.fa-arrow-up {
+  font-size:2rem;
+}
+
+@media screen and (max-width: 576px) {
+  .fa-arrow-up {
+    margin: 1rem;
+  }
+  .socials {
+    margin-left: 3.5rem;
+  }
+
+  #copyright {
+    margin-left: 1rem;
+  }
+}
