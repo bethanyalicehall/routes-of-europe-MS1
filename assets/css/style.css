@@ -33,6 +33,9 @@ nav {
     font-size: 1.25rem;
     
   }
+
+
+
   #homeHeroBackground {
     background-image: url('../img/amalfi.jpg');
     background-size:cover;
@@ -92,10 +95,9 @@ nav {
   }
 
 
-
-#whoWeAre {
-  
-  
+#whoWeAre img{
+  position:relative;
+  left: 15px;
 }
 
 #test1 {
