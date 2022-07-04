@@ -121,6 +121,9 @@ nav {
   font-family: 'Skranji', cursive;
 }
 
+.carousel-item {
+  height:424px;
+}
 
 
 .locations {
