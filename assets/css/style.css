@@ -22,7 +22,7 @@ nav {
     text-decoration: none;
     color: #0d0c1d;
     text-transform: uppercase;
-    letter-spacing:2px;
+    letter-spacing:0.5rem;
     font-size: 1.5rem;
     font-weight: bold;
   }
@@ -156,6 +156,7 @@ form {
 #copyright {
   text-align:center;
   font-size:1.5rem;
+  color:#0d0c1d;
 }
 
 .socials {
@@ -167,6 +168,10 @@ form {
   display:inline;
   margin:1rem;
   font-size:2rem;
+}
+
+.socials i {
+  color:#0d0c1d;
 }
 
 .fa-arrow-up {
