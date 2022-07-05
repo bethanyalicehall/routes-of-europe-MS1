@@ -94,6 +94,19 @@ nav {
     }
   }
 
+a {
+text-decoration: none;
+color: inherit;
+}
+
+a:hover {
+  color: #f5f5f5;
+}
+
+#homeBtn:hover{
+  background-color: rgba(58, 113, 109, 0.6);
+  color:#f5f5f5;
+}
 
 #whoWeAre img{
   position:relative;
@@ -111,9 +124,15 @@ nav {
   color:#f5f5f5;
 }
 
+
 #joinBtn {
 text-decoration: none;
 color: inherit;
+}
+
+#joinBtn:hover {
+  background-color: rgba(58, 113, 109, 0.6);
+  color:#f5f5f5;
 }
 
 #connect {

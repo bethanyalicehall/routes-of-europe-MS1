@@ -75,45 +75,45 @@
     <!--Next steps-->
 
     <!--Form-->
-    <form class="px-0 py-3 p-sm-5">
-        <h4 class="pb-3 px-4">Fill out this form to get in touch</h4>
+    <form action="https://formdump.codeinstitute.net/" method="POST" class="signup-form px-0 py-3 p-sm-5"><a name="form"></a>
+        <h4 class="pb-3 px-4"></a>Fill out this form to get in touch</h4>
         <div class="row px-4">
             <div class="col">
-              <input type="text" class="form-control" placeholder="First name" aria-label="First name" required>
+              <input type="text" class="form-control" placeholder="First name" name="first_name" aria-label="First name" required>
             </div>
             <div class="col">
-              <input type="text" class="form-control" placeholder="Last name" aria-label="Last name" required>
+              <input type="text" class="form-control" placeholder="Last name" name="last_name" aria-label="Last name" required>
             </div>
         </div>
         <div class="row p-4">
             <div class="col">
-              <input type="email" class="form-control" placeholder="Email" aria-label="Email" required>
+              <input type="email" class="form-control" placeholder="Email" name="email_address" aria-label="Email" required>
             </div>
         </div>
         <div class="row px-4">
             <div class="col">
               <label for="depature"><h5>Depature date</h5></label>
-              <input id="depature" type="date" class="form-control" placeholder="Depature date" aria-label="Depature date" required>
+              <input id="depature" type="date" class="form-control" placeholder="Depature date" name="depature_date" aria-label="Depature date" required>
             </div>
             <div class="col">
               <label for="return"><h5>Return date</h5></label>
-              <input id="return" type="date" class="form-control" placeholder="Return date" aria-label="Return date" required>
+              <input id="return" type="date" class="form-control" placeholder="Return date" name="return_date" aria-label="Return date" required>
             </div>
         </div>
         <div class="row p-4">
             <div class="col">
-              <input type="number" class="form-control" min="1" max="12" placeholder="Group size" aria-label="Group size" required>
+              <input type="number" class="form-control" min="1" max="12" placeholder="Group size" name="group_size" aria-label="Group size" required>
             </div>
             <div class="col">
-                <div class="form-check" required>
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" value="transport_and_accommodation" id="flexRadioDefault1">
                     <label class="form-check-label" for="flexRadioDefault1">
                       Transport + accommodation
                     </label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                    <label class="form-check-label" for="flexRadioDefault1">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" value="transport_only" id="flexRadioDefault2">
+                    <label class="form-check-label" for="flexRadioDefault2">
                       Transport only
                     </label>
                 </div>  
@@ -121,10 +121,10 @@
         </div>
         <div class="form px-4">
             <label for="floatingTextarea"><h5>Extra information</h5>Let us know any must-see's or musn't do's, preferred accommodation type and budget. The more information you provide about you and your ideal trip, the better tailored it will be for you.</label>
-            <textarea class="form-control" max-length="500"placeholder="Leave a comment here" id="floatingTextarea" required></textarea>
+            <textarea class="form-control" max-length="500" placeholder="Leave a comment here" name="extra_information" id="floatingTextarea" required></textarea>
         </div>
         <div class="form-check p-4 m-4">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+            <input class="form-check-input" type="checkbox" value="yes" name="subscribe_newsletter" id="flexCheckDefault">
             <label class="form-check-label" for="flexCheckDefault">
               Subscribe to our monthly newsletter!
             </label>
