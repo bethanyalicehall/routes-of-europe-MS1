@@ -116,6 +116,15 @@ text-decoration: none;
 color: inherit;
 }
 
+#connect {
+  background-color: rgba(24, 119, 149, 0.7);
+  
+}
+
+#connect h2 {
+  letter-spacing:0.25rem;
+}
+
 #medi {
   font-family: 'Lobster', cursive;
 }
