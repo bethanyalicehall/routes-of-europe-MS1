@@ -1,3 +1,4 @@
+
 body {
   color: #0d0c1d;
   background-color:#f5f5f5;
@@ -43,7 +44,24 @@ nav {
   
   }
 
+  .txt {
+    animation: txt 7s ease-out normal;
+  }
 
+@keyframes txt{
+  0%{
+    transform:scale(0.7)
+  }
+  25%{
+    transform:scale(0.7)
+  }
+  60%{
+    transform:scale(0.9)
+  }
+  100%{
+    transform:scale(1)
+  }
+}
 
   #homeHeroBackground {
     background-image: url('../img/amalfi.jpg');
@@ -55,7 +73,7 @@ nav {
    
   }
 
-  
+ 
 
   #routesHeroBackground {
     background-image: url('../img/bruges.jpg');
