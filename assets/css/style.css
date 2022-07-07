@@ -239,6 +239,22 @@ a:hover {
 #nextSteps {
   background-color: white;
 }
+video {
+  
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper-3 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .wrapper-3 div:first-child {
+    order: 2;
+  }
+}
 
 form {
   background-color: rgba(24, 119, 149, 0.3);
