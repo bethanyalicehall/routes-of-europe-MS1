@@ -64,7 +64,7 @@ Following on from this a list of opportunities were put together. Each opportuni
 | Opportunity | Importance  | Viability/Feasibility | 
 | ----------- | ----------- | ----------- |
 | Increase booking requests through the form.| 5 | 4 |
-| Increase footfall to the website| 5 | 5 |
+| Increase returning users| 5 | 5 |
 | Increase members of Routes of Europe Facebook group.| 3 | 5 |
 | Gain a larger social media following.| 2 | 3 |
 | Develop relationships with travel brands to gain affiliate links.| 3 | 2 |
@@ -73,7 +73,7 @@ Insert graph here?
 
 From the above table, the focus for the strategy will be on the following:
 - Increase booking requests through the form.
-- Increase footfall to the website
+- Increase returning users
 - Increase members of Routes of Europe Facebook group.
 
 ---
