@@ -125,6 +125,7 @@ Layout
 
 ### Surface
 Colour
+![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D] (palette.png)
 
 Typography/icons
 
