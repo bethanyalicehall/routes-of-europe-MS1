@@ -107,6 +107,10 @@ Components that are used across each page (and are consistent throughout)
 
 ### Skeleton
 
+- Each page has a statement hero image and a short heading, beneath this part of the further text on the page is visible to attract the user to keep reading, and scroll down the page
+- I considered the responsive layout and how it would be viewed on tablet and mobile devices as well as on desktop. 
+- Padding and margins were used throughout to ensure that the content does not appear cluttered.
+
 #### Wireframes
 Insert wireframe screenshots here
 
@@ -116,16 +120,12 @@ Things that changed from the wireframe to the end result...
 - This
 - That
 
-Layout
-- Each page has a statement hero image and a short heading, beneath this part of the further text on the page is visible to attract the user to keep reading, and scroll down the page
-- I considered the responsive layout and how it would be viewed on tablet and mobile devices as well as on desktop. 
-- Padding and margins were used throughout to ensure that the content does not appear cluttered.
-
 ---
 
 ### Surface
 Colour
 ![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](assets/img/palette.png)
+I chose these colours because..
 
 Typography/icons
 
