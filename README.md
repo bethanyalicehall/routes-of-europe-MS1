@@ -110,21 +110,16 @@ Components that are used across each page (and are consistent throughout)
 #### Wireframes
 Insert wireframe screenshots here
 
+(Add desktop screenshots then do link to mobile/tablet)
+
 Things that changed from the wireframe to the end result...
 - This
 - That
 
-Hero image
-Who we are to prompt to keep reading
-Testimonials
-Connect to fb group - inspire further trips
-
-Short snappy infomation about each route, with images to go alongside
-3 routes so not to be information overload
-
-Clear form with appropirate input types, and form validation.
-
-Padding/margins
+Layout
+- Each page has a statement hero image and a short heading, beneath this part of the further text on the page is visible to attract the user to keep reading, and scroll down the page
+- I considered the responsive layout and how it would be viewed on tablet and mobile devices as well as on desktop. 
+- Padding and margins were used throughout to ensure that the content does not appear cluttered.
 
 ---
 
