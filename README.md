@@ -127,11 +127,11 @@ Things that changed from the wireframe to the end result...
 #### Colour
 
 ![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](assets/img/palette.png)
-#FFFFFF - the background colour for individual sections of the website and for some sections of text
-#F5F5F5 - the overall background colour
-#187795 - the form background colour
-#3A716D - the background of the testimonial cards and the background colour for buttons when hovered
-#0D0C1D - the text colour for most of the text throughout the website
+- #FFFFFF - the background colour for individual sections of the website and for some sections of text
+- #F5F5F5 - the overall background colour
+- #187795 - the form background colour
+- #3A716D - the background of the testimonial cards and the background colour for buttons when hovered
+- #0D0C1D - the text colour for most of the text throughout the website
 
 I chose these colours as I wanted a clean, minimalistic look, but still with splashes of colour here and there. The reason I went for this was to keep the focus on the text and imagery.
 
@@ -152,11 +152,21 @@ It was hard to stick to a colour scheme within the imagery as the content of the
 
 I included a simple video of a view from a train window, on the get in touch page. The video does not add much in regards to content but rather provides aesthetic adding to the theme of travelling Europe by rail.
 
-Typography/icons
+#### Typography and icons
 
+I used Google fonts for all of the fonts;
 
+- Roboto
+    - This was the main text used throughout, applied to the body. This is a easy-read font that fits well into the theming of the website.
 
-Call to action buttons
+- Roboto 'Mono'
+    - This was used for the testimonial cards, to differentiate them from the main body of text.
+
+- Roboto-flex
+    - This was used for the location names and also for the form.
+
+- Lobster, Special Elite, Skranji
+    - These were used for the Route titles, I chose each one to be different and to stand out to add something extra to the route cards.
 
 ---
 
