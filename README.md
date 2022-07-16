@@ -113,6 +113,12 @@ Components that are used across each page (and are consistent throughout)
 
 #### Wireframes
 Insert wireframe screenshots here
+![Wireframe of home page](assets/img/w1.png)
+
+![Wireframe of home page](assets/img/w2.png)
+
+![Wireframe of home page](assets/img/w3.png)
+
 
 (Add desktop screenshots then do link to mobile/tablet)
 
@@ -185,6 +191,7 @@ Meta data
 404 error page
 
 Home page
+- mention call to action buttons
 
 Routes page
 
