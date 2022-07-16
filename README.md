@@ -123,9 +123,24 @@ Things that changed from the wireframe to the end result...
 ---
 
 ### Surface
-Colour
+
+#### Colour
+
 ![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](assets/img/palette.png)
-I chose these colours because..
+#FFFFFF - the background colour for individual sections of the website and for some sections of text
+#F5F5F5 - the overall background colour
+#187795 - the form background colour
+#3A716D - the background of the testimonial cards and the background colour for buttons when hovered
+#0D0C1D - the text colour for most of the text throughout the website
+
+I chose these colours as I wanted a clean, minimalistic look, but still with splashes of colour here and there. The reason I went for this was to keep the focus on the text and imagery.
+
+#### Imagery
+
+- Hero images 
+    - I chose bold and scenic images for each hero image. The Amalfi coast, Bruges, and Amsterdam. On each I included a black colour overlay to mute it slightly.
+ 
+
 
 Typography/icons
 
