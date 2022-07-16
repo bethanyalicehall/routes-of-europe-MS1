@@ -137,14 +137,24 @@ I chose these colours as I wanted a clean, minimalistic look, but still with spl
 
 #### Imagery
 
+It was hard to stick to a colour scheme within the imagery as the content of the images was incredibly varied. However I think as my main colour scheme of the website is quite minimal, the varying coloured images work quite well. Each image is clear and of good size, they are responsive for differing sizes of devices.
+
 - Hero images 
     - I chose bold and scenic images for each hero image. The Amalfi coast, Bruges, and Amsterdam. On each I included a black colour overlay to mute it slightly.
- 
 
+- Carousel images
+    - For each route option there are three images within the carousel. I tried to choose images that gave a taste of the countries included on the route, that may entice the user into booking a trip.
+
+- Other imagery 
+    - I included two further images on the home page, each of these include people, the train featured in both appears similair to try and provide some continuity of theming. 
+ 
+#### Video 
+
+I included a simple video of a view from a train window, on the get in touch page. The video does not add much in regards to content but rather provides aesthetic adding to the theme of travelling Europe by rail.
 
 Typography/icons
 
-Imagery
+
 
 Call to action buttons
 
