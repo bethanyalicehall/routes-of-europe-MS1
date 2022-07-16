@@ -168,6 +168,10 @@ I used Google fonts for all of the fonts;
 - Lobster, Special Elite, Skranji
     - These were used for the Route titles, I chose each one to be different and to stand out to add something extra to the route cards.
 
+For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop"
+
+Font awesome was used for all of the social media icons in the footer. Font awesome icons were also used as food icons within the route cards.
+
 ---
 
 ## Features
@@ -197,6 +201,8 @@ Future features to consider
 ## Technologies used
 
 ### Languages
+HTML5
+CSS3
 
 ### Frameworks, Libraries and Programs
 
@@ -207,10 +213,15 @@ Future features to consider
 ## Testing 
 
 - HTML validation
+    - 
 - CSS validation
+    - 
 - Manual testing - chrome developer tools - responsiveness
+    - 
 - Tested user stories
+    - 
 - Bugs
+    - 
 
 ---
 
