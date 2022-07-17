@@ -11,8 +11,8 @@ Routes of Europe is a concept for a business that provides route planning servic
 ---
 
 ## Table of Contents
-- [User experience (UX)]()     
-    - [User stories]()
+- [User experience (UX)](##user-experience-(ux))     
+    - [User stories](###user-stories)
     - [Strategy]()
     - [Scope]()
     - [Structure]()
@@ -207,17 +207,24 @@ Bootstrap has been used throughout the website to allow for a responisve, mobile
 ### Meta data
 Meta tags are included within the head element, including a description, the author and keywords. 
 
+### Navigation bar
+The navigation bar is composed of navigation links in the top left, which take you to the appropriate pages, and a logo in the top right. Each of the navigation links go a darker colour when active, and also when hovered over. On smaller devices the navigation links compress down into a hamburger icon which can be clicked on and the navigation links drop down. The logo can be clicked to take you back to the home page.
+
 ### 404 error page 
 A custom 404 error page was made, including a link to redirect back to the home page.
 
 Home page
 - mention call to action buttons
 
-Routes page
+### Carousels
+Within the routes page, each route has a carousel displaying 3 images of locations featured within that route. Arrows appear when hovering over them to allow the user to select which image they want to view at any given time, the images are on a slideshow setting if the user does not interact with the carousel.
 
-Get in touch page
+### Form
 
-Future features to consider
+### Footer
+The footer includes a copyright, an arrow to click to take you back to the top of the page, and social media links. The links change colour when hovered over, to indicate that they can be clicked on.
+
+### Future features to consider
 - Video
 - Map
 - Modals
