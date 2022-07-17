@@ -126,6 +126,8 @@ The original wireframes differ slightly to the final layout of the website, this
 
 <br clear="both"/>
 
+Changes made throughout development
+- Initially I was considering having an extra page of "Top tips" however I decided this was not needed, but could be implemented in future updates.
 - The text over each hero image was changed to a shorter, snappier tag-line and buttons were not added.
 - An image was added to the who we are section.
 - The testimonials do not have images, they were kept simple and clean by using cards.
@@ -133,14 +135,7 @@ The original wireframes differ slightly to the final layout of the website, this
 - THe layout of each route section was slightly altered to be more responsive on smaller devices.
 - The get in touch page was stripped down of text, as it appeared too cluttered.
 
-
-
-
 (Add desktop screenshots then do link to mobile/tablet)
-
-Things that changed from the wireframe to the end result...
-- This
-- That
 
 ---
 
@@ -198,13 +193,22 @@ Font awesome was used for all of the social media icons in the footer. Font awes
 
 ## Features
 
-Responsiveness
+### Responsiveness
+Bootstrap has been used throughout the website to allow for a responisve, mobile first design, media queries were also used to aid this.
+- The navigation bar collapses into a hamburger icon on smaller devices
+- For the routes page when viewed on smaller devices, the carousel stacks on top of the text.
 
-Accessibility
+### Accessibility
+- Alt attributes have been added to all images and the video
+- Text size, font and colour were considered in a way to hopefully provide clear, easy reading.
+- A grey background colour is behind the hero images so if the images were not to load, text would still be readable.
+- Lighthouse testing was carried out which looked at accessibility, see [Testing]() section. 
 
-Meta data
+### Meta data
+Meta tags are included within the head element, including a description, the author and keywords. 
 
-404 error page
+### 404 error page 
+A custom 404 error page was made, including a link to redirect back to the home page.
 
 Home page
 - mention call to action buttons
