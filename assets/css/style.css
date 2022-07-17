@@ -201,15 +201,6 @@ a:hover {
   letter-spacing: 0.25rem;
 }
 
-.grow2 {
-  transition: all 1.5s ease-in-out;
-}
-
-.grow2:hover {
-  transform: scale(1.1);
-
-}
-
 #medi {
   font-family: 'Lobster', cursive;
 }
