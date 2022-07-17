@@ -250,12 +250,14 @@ Potential to have a separate page with backpacking essentials and affiliate link
 - Gitpod - to write the code and use GIT to commit and push to GitHub.
 - Balsamiq - used to produce the wireframes.
 - Coolors - used to create a colour palette for the website.
+- Techsini - used to create the multi device mockup.
 
 ### Frameworks and Libraries 
 - Bootstrap - version 5.2 was used throughout the project. Bootstrap documentation was used for the navigation bar, the hero sections, testimonial cards, route cards, the carousels, the form, and the footer. 
 - Google Fonts - Selected a variety of fonts and imported these into the code. 
 - Font Awesome - Used for icons throughout the site.
 - Imageresizer - Used to resize all carousel images to be equal in size.
+- tinypng - 
 
 
 
@@ -268,13 +270,40 @@ Click [here](testing.md) to view all testing carried out.
 
 ## Deployment
 
-Text here 
+### Steps taken to deploy project to GitHub Pages
+1. Go to **My repositories**.
+2. Select **bethanyalicehall/route-of-europe-MS1**.
+3. At the top of the page click on **Settings**.
+4. Scroll down and on the left hand side there is a **Pages** section.
+5. Under **Source** click the drop down menu and select **Main**.
+6. Click **Save**, the website will now be deployed (note it can take a minute or two to load).
+
+### Access to code
+1. Go to **My repositories**.
+2. Select **bethanyalicehall/route-of-europe-MS1**.
+3. At the top of the page click on **Code**, where **Zip files** can be downloaded locally.
 
 ---
 
 ## Credits 
 
 Code institute boiler template
+
+### Media
+- Pexels and Unsplash - click here to see details of images and video used throughout the site
+
+### Content
+- Code was taken from bootstrap documentation and altered slightly or written myself with inspiration from the following
+    - A designer who codes - Responsive background images with Bootstrap 5
+    - Traversy media - Bootstrap 5 video
+    - W3 Schools
+    - Code institute projects, in particular the Love Running project
+- conde nast happiest countries
+- Font awesome
+
+### Acknowledgements
+- My mentor
+- My college tutor 
 
 ---
 
