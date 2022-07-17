@@ -11,23 +11,23 @@ Routes of Europe is a concept for a business that provides route planning servic
 ---
 
 ## Table of Contents
-- [User experience (UX)](#user-experience-(ux))     
+- [User experience (UX)](#ux)     
     - [User stories](#user-stories)
     - [Strategy](#strategy)
-    - [Scope]()
-    - [Structure]()
-    - [Skeleton]()
-    - [Surface]()
-- [Features]()
-- [Technologies used]()
-- [Testing]()
-- [Deployment]()
-- [Credits]()
+    - [Scope](#scope)
+    - [Structure](#structure)
+    - [Skeleton](#skeleton)
+    - [Surface](#surface)
+- [Features](#features)
+- [Technologies used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 ---
 
-## User experience (UX)
-Text here 
+## UX
+User experience
 
 ### User stories
 #### As a new user I want ...
