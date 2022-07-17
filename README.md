@@ -113,14 +113,25 @@ Components that are used across each page (and are consistent throughout)
 
 #### Wireframes
 
+The original wireframes differ slightly to the final layout of the website, this is because as I was developing the site naturally some changes occurred that seemed logical to improve UX.
+
 <img align="left"  src="assets/img/wf1.png">
 
+
 <img align="right"  src="assets/img/wf2.png">
+
+-
 
 <img align="left"  src="assets/img/wf3.png">
 
 <br clear="both"/>
 
+- The text over each hero image was changed to a shorter, snappier tag-line and buttons were not added.
+- An image was added to the who we are section.
+- The testimonials do not have images, they were kept simple and clean by using cards.
+- An image was added to the connect section.
+- THe layout of each route section was slightly altered to be more responsive on smaller devices.
+- The get in touch page was stripped down of text, as it appeared too cluttered.
 
 
 
