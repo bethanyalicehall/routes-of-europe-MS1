@@ -112,12 +112,17 @@ Components that are used across each page (and are consistent throughout)
 - Padding and margins were used throughout to ensure that the content does not appear cluttered.
 
 #### Wireframes
-Insert wireframe screenshots here
-![Wireframe of home page](assets/img/w1.png)
 
-![Wireframe of home page](assets/img/w2.png)
+<img align="left"  src="assets/img/wf1.png">
 
-![Wireframe of home page](assets/img/w3.png)
+<img align="right"  src="assets/img/wf2.png">
+
+<img align="left"  src="assets/img/wf3.png">
+
+<br clear="both"/>
+
+
+
 
 
 (Add desktop screenshots then do link to mobile/tablet)
