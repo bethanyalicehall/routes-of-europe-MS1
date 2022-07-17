@@ -208,7 +208,7 @@ Bootstrap has been used throughout the website to allow for a responisve, mobile
 Meta tags are included within the head element, including a description, the author and keywords. 
 
 ### Navigation bar
-The navigation bar is composed of navigation links in the top left, which take you to the appropriate pages, and a logo in the top right. Each of the navigation links go a darker colour when active, and also when hovered over. On smaller devices the navigation links compress down into a hamburger icon which can be clicked on and the navigation links drop down. The logo can be clicked to take you back to the home page.
+The navigation bar is composed of navigation links in the top left, which take you to the appropriate pages, and a logo in the top right. Each of the navigation links go a darker colour when active, and also when hovered over. On smaller devices the navigation links compress down into a hamburger icon which can be clicked on and the navigation links drop down. The logo can be clicked to take you back to the home page. The navigation bar is does not have a sticky top, as I did not want the navigation bar to reduce space for other content on the page when scrolling.
 
 ### 404 error page 
 A custom 404 error page was made, including a link to redirect back to the home page.
@@ -220,14 +220,21 @@ Home page
 Within the routes page, each route has a carousel displaying 3 images of locations featured within that route. Arrows appear when hovering over them to allow the user to select which image they want to view at any given time, the images are on a slideshow setting if the user does not interact with the carousel.
 
 ### Form
+The form is located on the get in touch page, it includes fields for the user to input their personal details and details about their ideal trip. A radio button is included to indicate if they want just transport or transport and accommodation booking. There is a check box to indicate if a user wants to subscribe to the newsletter. A submit button is located at the bottom of the form. The form has an action of posting the data to Code Institute form dump.
 
 ### Footer
 The footer includes a copyright, an arrow to click to take you back to the top of the page, and social media links. The links change colour when hovered over, to indicate that they can be clicked on.
 
 ### Future features to consider
-- Video
-- Map
-- Modals
+
+#### Map
+A map could be added to each route to show the exact location of each stop within the route
+
+#### Form submission conformation
+Include a modal that appears once the form has been submitted, saying "Submission succesful"
+
+#### Affiliate links
+Potential to have a separate page with backpacking essentials and affiliate links.
 
 
 ---
@@ -235,27 +242,27 @@ The footer includes a copyright, an arrow to click to take you back to the top o
 ## Technologies used
 
 ### Languages
-HTML5
-CSS3
+- HTML5 - a markup language used for presenting and strucutring content.
+- CSS3 - stylesheet language for adding style.
 
-### Frameworks, Libraries and Programs
+### Programs and websites
+- GitHub - to host the repository, and then deploy to GitHub pages.
+- Gitpod - to write the code and use GIT to commit and push to GitHub.
+- Balsamiq - used to produce the wireframes.
+- Coolors - used to create a colour palette for the website.
 
-### Additional technologies
+### Frameworks and Libraries 
+- Bootstrap - version 5.2 was used throughout the project. Bootstrap documentation was used for the navigation bar, the hero sections, testimonial cards, route cards, the carousels, the form, and the footer. 
+- Google Fonts - Selected a variety of fonts and imported these into the code. 
+- Font Awesome - Used for icons throughout the site.
+- Imageresizer - Used to resize all carousel images to be equal in size.
+
+
 
 ---
 
 ## Testing 
-
-- HTML validation
-    - 
-- CSS validation
-    - 
-- Manual testing - chrome developer tools - responsiveness
-    - 
-- Tested user stories
-    - 
-- Bugs
-    - 
+Click [here](testing.md) to view all testing carried out.
 
 ---
 
@@ -267,7 +274,7 @@ Text here
 
 ## Credits 
 
-Text here
+Code institute boiler template
 
 ---
 
