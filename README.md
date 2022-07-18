@@ -188,7 +188,9 @@ I used Google fonts for all of the fonts;
 - Lobster, Special Elite, Skranji - regular 400
     - These were used for the Route titles, I chose each one to be different and to stand out to add something extra to the route cards.
 
-For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop"
+For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop". I added a grow animation to the logo when hovered, just to make it stand out more from the navigation links.
+
+For the text overlaying the hero image, I included a grow animation when the page loads, to add some movement to the website, and make it more inviting.
 
 Font awesome was used for all of the social media icons in the footer. Font awesome icons were also used as food icons within the route cards.
 
