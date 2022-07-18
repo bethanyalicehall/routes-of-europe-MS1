@@ -209,6 +209,10 @@ a:hover {
   list-style: none;
 }
 
+#listSteps li {
+  padding:10px;
+}
+
 video {
 
   max-width: 100%;
