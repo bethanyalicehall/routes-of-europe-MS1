@@ -1,6 +1,8 @@
 # Testing
 
 ## HTML validator
+I inputted my HTML into the W3C Markup Validation service.
+
 ### Home page
 ![Screenshot of HTML validation results for home page](readme-img/html-home.png)
 - For error 1, I replaced the name attribute with an id attribute.
