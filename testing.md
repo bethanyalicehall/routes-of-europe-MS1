@@ -106,7 +106,7 @@ Each of the following tests were carried out on a Macbook Air and an iPhone 12 p
 
 
 ### Browser compatibility
-The following browsers we used to check compatibility with the website
+The following browsers were used to check compatibility with the website
 - Chrome
 - Safari
 - Microsoft Edge
