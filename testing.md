@@ -157,3 +157,5 @@ The following browsers we used to check compatibility with the website
 
 - Bug: When viewed on smaller screen sizes the carousel images appeared unequal in size.
 - How I fixed it: I used an image resizer to make sure images had the same dimensions.
+
+- Unfixed bug - when first loading the page the pin drop icon that is part of the logo, it appears as text for a second before changing to the icon.
