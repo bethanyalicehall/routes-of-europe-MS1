@@ -217,9 +217,6 @@ The navigation bar is composed of navigation links in the top left, which take y
 ### 404 error page 
 A custom 404 error page was made, including a link to redirect back to the home page.
 
-Home page
-- mention call to action buttons
-
 ### Carousels
 Within the routes page, each route has a carousel displaying 3 images of locations featured within that route. Arrows appear when hovering over them to allow the user to select which image they want to view at any given time, the images are on a slideshow setting if the user does not interact with the carousel.
 
