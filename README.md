@@ -198,7 +198,7 @@ Font awesome was used for all of the social media icons in the footer. Font awes
 ## Features
 
 ### Responsiveness
-Bootstrap has been used throughout the website to allow for a responsive, mobile first design, media queries were also used to aid this.
+Bootstrap has been used throughout the website to allow for a responsive design, media queries were also used to aid this.
 - The navigation bar collapses into a hamburger icon on smaller devices
 - For the routes page when viewed on smaller devices, the carousel stacks on top of the text.
 
