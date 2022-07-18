@@ -176,16 +176,16 @@ I included a simple video of a view from a train window, on the get in touch pag
 
 I used Google fonts for all of the fonts;
 
-- Roboto
+- Roboto - regular 400
     - This was the main text used throughout, applied to the body. This is a easy-read font that fits well into the theming of the website.
 
-- Roboto 'Mono'
+- Roboto 'Mono' - extralight 200
     - This was used for the testimonial cards, to differentiate them from the main body of text.
 
-- Roboto-flex
+- Roboto-flex - thin 100
     - This was used for the location names and also for the form.
 
-- Lobster, Special Elite, Skranji
+- Lobster, Special Elite, Skranji - regular 400
     - These were used for the Route titles, I chose each one to be different and to stand out to add something extra to the route cards.
 
 For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop"
@@ -260,7 +260,7 @@ Potential to have a separate page with backpacking essentials and affiliate link
 - [Google Fonts](https://fonts.google.com/) - Selected a variety of fonts and imported these into the code. 
 - [Font awesome](https://fontawesome.com/) - Used for icons throughout the site.
 - [Image resizer](https://imageresizer.com/) - Used to resize all carousel images to be equal in size.
-- [Tinypng](https://tinypng.com/) - 
+- [Tinypng](https://tinypng.com/) - Used to compress images to help with loading time
 
 ---
 
@@ -302,8 +302,10 @@ Click [here](testing.md) to view all testing carried out.
   
 
 ### Acknowledgements
-- My mentor
-- My college tutor 
+I would like to thank
+- My mentor, Brian Macharia for uidance throughout the process.
+- Pasquale Fasulo for running sessions to help me feel prepared for the project.
+- All of the code institute team, for providing quality learning content to allow me to develop my skills to complete this project.
 
 ---
 
