@@ -61,14 +61,49 @@ I utilised [Wave](https://wave.webaim.org/) which is a web accessibility evaluat
 - The social media links within the footer did not all have titles, this error was corrected.
 
 ## Responsiveness
-Chrome tools throughout
-Am i responsive?
+- I utilised Chrome Developer tools to test responsiveness on different devices, the following devices were succesfully tested through this.
+    - iPhone SE
+    - iPhone XR
+    - iPhone 6/7/8
+    - Samsung galaxy S8+
+    - iPad Air
+    - iPad Mini
+    - Surface pro 7
+    - Galaxy Fold
+    - Nest Hub
+
+- I manually tested the website on an iPhone 12 pro, an iPad 2 and a MacBook Air.
 
 
 ## Manual testing
-- different device sizes
-- links
-- browser compatibility
+
+### Functional testing
+- A functional navigation bar is present
+    - The navigation bar allows users to easily access links to the corresponding pages
+
+- The footer contains a link which allows the user to go back to the top of the page
+    - This is present on each page and works as expected
+
+- The social media links open in a new tab
+    - This works as expected
+
+- Users can scroll through the carousel or they can watch the slideshow which is automatic
+    - The carousels work as expected
+
+- The video does not play automatically and there are controls available to the user
+    - The video is paused until the user decides to play it.
+
+- The form does not allow wrong input types to by inputted.
+    - An alert will apear when attempting to submit if wrong input type has been used.
+
+- A 404 error page will appear if an incorrect url is entered
+    - This works as expected and has a link to go back to home page
+
+
+### Browser compatibility
+The following browsers we used to check compatibility with the website
+- Chrome
+- Safari
 
 ## Testing User Stories
 
