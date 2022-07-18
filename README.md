@@ -202,7 +202,7 @@ Bootstrap has been used throughout the website to allow for a responisve, mobile
 - Alt attributes have been added to all images and the video
 - Text size, font and colour were considered in a way to hopefully provide clear, easy reading.
 - A grey background colour is behind the hero images so if the images were not to load, text would still be readable.
-- Lighthouse testing was carried out which looked at accessibility, see [Testing]() section. 
+- Lighthouse testing was carried out which looked at accessibility, see [Testing](#testing) section. 
 
 ### Meta data
 Meta tags are included within the head element, including a description, the author and keywords. 
@@ -242,24 +242,22 @@ Potential to have a separate page with backpacking essentials and affiliate link
 ## Technologies used
 
 ### Languages
-- HTML5 - a markup language used for presenting and strucutring content.
-- CSS3 - stylesheet language for adding style.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - a markup language used for presenting and strucutring content.
+- [CSS3](https://en.wikipedia.org/wiki/CSS) - stylesheet language for adding style.
 
 ### Programs and websites
-- GitHub - to host the repository, and then deploy to GitHub pages.
-- Gitpod - to write the code and use GIT to commit and push to GitHub.
-- Balsamiq - used to produce the wireframes.
-- Coolors - used to create a colour palette for the website.
-- Techsini - used to create the multi device mockup.
+- [GitHub](https://github.com/) - to host the repository, and then deploy to GitHub pages.
+- [GitPod](https://gitpod.io) - to write the code and use GIT to commit and push to GitHub.
+- [Balsamiq](https://balsamiq.com/) - used to produce the wireframes.
+- [Coolors](https://coolors.co/) - used to create a colour palette for the website.
+- [Techsini](https://techsini.com/multi-mockup/index.php) - used to create the multi device mockup.
 
 ### Frameworks and Libraries 
-- Bootstrap - version 5.2 was used throughout the project. Bootstrap documentation was used for the navigation bar, the hero sections, testimonial cards, route cards, the carousels, the form, and the footer. 
-- Google Fonts - Selected a variety of fonts and imported these into the code. 
-- Font Awesome - Used for icons throughout the site.
-- Imageresizer - Used to resize all carousel images to be equal in size.
-- tinypng - 
-
-
+- [Bootstrap](https://getbootstrap.com/) - version 5.2 was used throughout the project. Bootstrap documentation was used for the navigation bar, the hero sections, testimonial cards, route cards, the carousels, the form, and the footer. 
+- [Google Fonts](https://fonts.google.com/) - Selected a variety of fonts and imported these into the code. 
+- [Font awesome](https://fontawesome.com/) - Used for icons throughout the site.
+- [Image resizer](https://imageresizer.com/) - Used to resize all carousel images to be equal in size.
+- [Tinypng](https://tinypng.com/) - 
 
 ---
 
@@ -287,19 +285,18 @@ Click [here](testing.md) to view all testing carried out.
 
 ## Credits 
 
-Code institute boiler template
-
 ### Media
-- Pexels and Unsplash - click here to see details of images and video used throughout the site
+- [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) - click here to see details of images and video used throughout the site
 
 ### Content
-- Code was taken from bootstrap documentation and altered slightly or written myself with inspiration from the following
-    - A designer who codes - Responsive background images with Bootstrap 5
-    - Traversy media - Bootstrap 5 video
-    - W3 Schools
-    - Code institute projects, in particular the Love Running project
-- conde nast happiest countries
-- Font awesome
+- [Code institute boiler template](https://github.com/Code-Institute-Org/gitpod-full-template) was used.
+- Code was taken from bootstrap documentation and altered slightly or written myself with inspiration and help from the following
+    - [A designer who codes - Responsive background images with Bootstrap 5](https://www.youtube.com/watch?v=W87XNjvXiWw&t=18s) 
+    - [Traversy media - Bootstrap 5 video](https://www.youtube.com/watch?v=4sosXZsdy-s)
+    - [W3 Schools](https://www.w3schools.com/)
+    - [Code institute](https://codeinstitute.net/) projects, in particular the Love Running project.
+    - [cntraveller](https://www.cntraveller.com/gallery/happiest-countries-in-the-world) - information about the happiest countries in the world
+  
 
 ### Acknowledgements
 - My mentor
