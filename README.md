@@ -256,6 +256,9 @@ Potential to have a separate page with backpacking essentials and affiliate link
 - [Balsamiq](https://balsamiq.com/) - used to produce the wireframes.
 - [Coolors](https://coolors.co/) - used to create a colour palette for the website.
 - [Techsini](https://techsini.com/multi-mockup/index.php) - used to create the multi device mockup.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for perfromance testing.
+- [Wave](https://wave.webaim.org/) - for accessibility testing.
+- [Chrome developer tools](https://developer.chrome.com/docs/devtools/) - for testing responsiveness throughout.
 
 ### Frameworks and Libraries 
 - [Bootstrap](https://getbootstrap.com/) - version 5.2 was used throughout the project. Bootstrap documentation was used for the navigation bar, the hero sections, testimonial cards, route cards, the carousels, the form, and the footer. 
