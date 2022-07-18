@@ -304,6 +304,7 @@ Click [here](testing.md) to view all testing carried out.
     - [W3 Schools](https://www.w3schools.com/)
     - [Code institute](https://codeinstitute.net/) projects, in particular the Love Running project.
     - [cntraveller](https://www.cntraveller.com/gallery/happiest-countries-in-the-world) - information about the happiest countries in the world
+    - [The broke backpacker](https://www.thebrokebackpacker.com/backpacker-statistics/) - website used for statistics
   
 
 ### Acknowledgements
