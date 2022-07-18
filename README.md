@@ -1,6 +1,6 @@
 # Routes of Europe
 
-![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](readme-img/mockup.png)
+![Mockup of home page on a Mac, Macbook, iPad, and iPhone](readme-img/mockup.png)
 
 [Link to live website](https://bethanyalicehall.github.io/routes-of-europe-MS1/index.html)
 
@@ -188,7 +188,7 @@ I used Google fonts for all of the fonts;
 - Lobster, Special Elite, Skranji - regular 400
     - These were used for the Route titles, I chose each one to be different and to stand out to add something extra to the route cards.
 
-For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop". I added a grow animation to the logo when hovered, just to make it stand out more from the navigation links.
+For the logo, I added an icon to the text from Google fonts, this icon is called "Pin-drop". I added a grow animation to the logo when hovered, just to make it stand out more from the navigation links. A text-shadow was also added to make it stand out.
 
 For the text overlaying the hero image, I included a grow animation when the page loads, to add some movement to the website, and make it more inviting.
 
