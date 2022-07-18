@@ -80,6 +80,9 @@ I utilised [Wave](https://wave.webaim.org/) which is a web accessibility evaluat
 ## Manual testing
 
 ### Functional testing
+
+Each of the following tests were carried out on a Macbook Air and an iPhone 12 pro.
+
 - A functional navigation bar is present
     - The navigation bar allows users to easily access links to the corresponding pages
 
