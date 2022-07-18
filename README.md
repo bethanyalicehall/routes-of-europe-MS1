@@ -36,7 +36,7 @@ User experience
 #### As a new user I want ...
 - The purpose of the website to be clear.
 - To easily navigate the website, to learn more about travelling around Europe.
-- To find readily available informaiton about the business and have clear contact options if I want to find out more.
+- To find readily available information about the business and have clear contact options if I want to find out more.
 
 #### As a returning user I want ...
 - Inspiring imagery and information to give me ideas for my next trip I will book through the website.
@@ -51,7 +51,7 @@ User experience
 
 ### Strategy
 The following questions were asked when developing a strategy...
-- Who is the target audientce, and is it culturally appropriate?
+- Who is the target audience, and is it culturally appropriate?
     - The target audience is anyone who wants to travel Europe, from research 2/3 of backpackers are aged 20-25 years old. 
 - Is the technology appropriate for the user and the purpose of the website?
     - The strategy for the technology is simplicity, there is no need for any complex technology for the purpose of this website.
@@ -60,7 +60,7 @@ The following questions were asked when developing a strategy...
 
 Following on from this a list of opportunities were put together. Each opportunity was then rated on a scale of 1-5 in two dimensions.
 1. Importance
-    - How crucial is it this oppurtunity?
+    - How crucial is it this opportunity?
 2. Viability/Feasibility
     - How realistic is implementing this opportunity?
 
@@ -82,9 +82,9 @@ From the above table, the focus for the strategy will be on the following:
 ### Scope
 The scope of this website is to provide...
 - simple and straightforward navigation
-- clear and concise content alongisde large imagery
+- clear and concise content alongside large imagery
 - information about the service the business offers
-- links to social media, in paritcular the Routes of Europe Facebook group.
+- links to social media, in particular the Routes of Europe Facebook group.
 - inspirational route ideas
 - testimonials from previous users/customers
 - a form to allow users to get in touch to put in a booking request.
@@ -100,9 +100,9 @@ It is made up of 3 pages
 - A get in touch page - information about next steps if a user is interested in using the trip planning service, and a form for them to fill out to provide information about their ideal trip.
 
 Components that are used across each page (and are consistent throughout)
-- Navigation bar - convential navigaiton elements displayed horizontally along the top of the page.
+- Navigation bar - conventional navigation elements displayed horizontally along the top of the page.
 - Hero image - eye-catching image with a short caption of text overlayed on top, underneath the navigation bar of each page. There is enough content visible underneath each hero image, to entice the user to scroll down.
-- Footer - copyright information, social media links with convential logo icons, and an up arrow with a link to bring you back to the top of the page.
+- Footer - copyright information, social media links with conventional logo icons, and an up arrow with a link to bring you back to the top of the page.
 
 ---
 
@@ -132,7 +132,7 @@ Changes made throughout development
 - An image was added to the who we are section.
 - The testimonials do not have images, they were kept simple and clean by using cards.
 - An image was added to the connect section.
-- THe layout of each route section was slightly altered to be more responsive on smaller devices.
+- The layout of each route section was slightly altered to be more responsive on smaller devices.
 - The get in touch page was stripped down of text, as it appeared too cluttered.
 
 I did not produce wireframes for mobile and tablet, although I did have the vision in my head that horizontal items would stack vertically on top of each other.
@@ -165,7 +165,7 @@ Click [here](media-sources.md) to see details of images and video used throughou
     - For each route option there are three images within the carousel. I tried to choose images that gave a taste of the countries included on the route, that may entice the user into booking a trip.
 
 - Other imagery 
-    - I included two further images on the home page, each of these include people, the train featured in both appears similair to try and provide some continuity of theming. 
+    - I included two further images on the home page, each of these include people, the train featured in both appears similar to try and provide some continuity of theming. 
  
 #### Video 
 
@@ -198,7 +198,7 @@ Font awesome was used for all of the social media icons in the footer. Font awes
 ## Features
 
 ### Responsiveness
-Bootstrap has been used throughout the website to allow for a responisve, mobile first design, media queries were also used to aid this.
+Bootstrap has been used throughout the website to allow for a responsive, mobile first design, media queries were also used to aid this.
 - The navigation bar collapses into a hamburger icon on smaller devices
 - For the routes page when viewed on smaller devices, the carousel stacks on top of the text.
 
