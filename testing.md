@@ -37,15 +37,21 @@ Once these errors were corrected no further errors were found.
 
 
 ## Performance testing
-I utilised the [Lighthouse] performance testing software.
+I utilised the [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)performance testing software.
 ### Home page
 ![Screenshot of Lighthouse testing for home page](readme-img/home1.png)
+![Screenshot of Lighthouse testing for home page](readme-img/2home.png)
+
 
 ### Routes page
 ![Screenshot of Lighthouse testing for routes page](readme-img/routes1.png)
+![Screenshot of Lighthouse testing for routes page](readme-img/2routes.png)
+
 
 ### Get in touch page
 ![Screenshot of Lighthouse testing for get in touch page](readme-img/touch1.png)
+![Screenshot of Lighthouse testing for get in touch page](readme-img/2touch.png)
+
 
 ## Accessability testing
 Wave
