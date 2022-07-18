@@ -225,7 +225,7 @@ Home page
 Within the routes page, each route has a carousel displaying 3 images of locations featured within that route. Arrows appear when hovering over them to allow the user to select which image they want to view at any given time, the images are on a slideshow setting if the user does not interact with the carousel.
 
 ### Form
-The form is located on the get in touch page, it includes fields for the user to input their personal details and details about their ideal trip. A radio button is included to indicate if they want just transport or transport and accommodation booking. There is a check box to indicate if a user wants to subscribe to the newsletter. A submit button is located at the bottom of the form. The form has an action of posting the data to Code Institute form dump.
+The form is located on the get in touch page, it includes fields for the user to input their personal details and details about their ideal trip. A radio button is included to indicate if they want just transport or transport and accommodation booking. There is a check box to indicate if a user wants to subscribe to the newsletter. A submit button is located at the bottom of the form. The form has an action of "get" and once submitted the user is taken to a page to confirm their submission and an option to go back to the home page.
 
 ### Footer
 The footer includes a copyright, an arrow to click to take you back to the top of the page, and social media links. The links change colour when hovered over, to indicate that they can be clicked on.
