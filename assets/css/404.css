@@ -5,11 +5,15 @@ body {
 }
 
 div {
-  padding: 40px;
+  padding: 60px 40px;
   text-align: center;
 }
 
 a {
   text-decoration: none;
   color: inherit;
+}
+
+a:hover {
+  color: rgba(24, 119, 149, 0.3);
 }
