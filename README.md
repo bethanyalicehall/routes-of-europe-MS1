@@ -72,8 +72,6 @@ Following on from this a list of opportunities were put together. Each opportuni
 | Gain a larger social media following.| 2 | 3 |
 | Develop relationships with travel brands to gain affiliate links.| 3 | 2 |
 
-Insert graph here?
-
 From the above table, the focus for the strategy will be on the following:
 - Increase booking requests through the form.
 - Increase returning users
@@ -123,7 +121,6 @@ The original wireframes differ slightly to the final layout of the website, this
 
 <img align="right"  src="readme-img/wf2.png">
 
--
 
 <img align="left"  src="readme-img/wf3.png">
 
@@ -138,7 +135,7 @@ Changes made throughout development
 - THe layout of each route section was slightly altered to be more responsive on smaller devices.
 - The get in touch page was stripped down of text, as it appeared too cluttered.
 
-(Add desktop screenshots then do link to mobile/tablet)
+I did not produce wireframes for mobile and tablet, although I did have the vision in my head that horizontal items would stack vertically on top of each other.
 
 ---
 
