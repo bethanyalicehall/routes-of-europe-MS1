@@ -9,7 +9,7 @@
 ## About
 **Milestone 1 project - User-Centric Frontend Development - Code institute**
 
-Routes of Europe is a concept for a business that provides route planning services for trips around Europe. 
+Routes of Europe is a fictional concept for a business that provides route planning services for trips around Europe. 
 
 ---
 
