@@ -233,7 +233,7 @@ A map could be added to each route to show the exact location of each stop withi
 
 
 #### Form 
-- Include a modal that appears once the form has been submitted, saying "Submission succesful"
+- Include a modal that appears once the form has been submitted, saying "Submission successful"
 - Include the user to only be allowed to choose dates within the future, not the past.
 
 #### Affiliate links
@@ -245,7 +245,7 @@ Potential to have a separate page with backpacking essentials and affiliate link
 ## Technologies used
 
 ### Languages
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) - a markup language used for presenting and strucutring content.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - a markup language used for presenting and structuring content.
 - [CSS3](https://en.wikipedia.org/wiki/CSS) - stylesheet language for adding style.
 
 ### Programs and websites
@@ -256,7 +256,7 @@ Potential to have a separate page with backpacking essentials and affiliate link
 - [Techsini](https://techsini.com/multi-mockup/index.php) - used to create the multi device mockup.
 - [W3C HTML Validation service](https://validator.w3.org/) - used to validate HTML
 - [W3C Jigsaw CSS Validation service](https://jigsaw.w3.org/css-validator/) - used to validate CSS
-- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for perfromance testing.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for performance testing.
 - [Wave](https://wave.webaim.org/) - for accessibility testing.
 - [Chrome developer tools](https://developer.chrome.com/docs/devtools/) - for testing responsiveness throughout.
 
@@ -309,7 +309,7 @@ Click [here](testing.md) to view all testing carried out.
 
 ### Acknowledgements
 I would like to thank
-- My mentor, Brian Macharia for uidance throughout the process.
+- My mentor, Brian Macharia for guidance throughout the process.
 - Pasquale Fasulo for running sessions to help me feel prepared for the project.
 - The photographers who publish royalty free images on Pexels and Unsplash that allowed me to use high quality imagery throughout.
 - All of the code institute team, for providing quality learning content to allow me to develop my skills to complete this project.
