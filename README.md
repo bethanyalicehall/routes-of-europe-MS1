@@ -1,4 +1,7 @@
 # Routes of Europe
+
+![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](readme-img/mockup.png)
+
 [Link to live website](https://bethanyalicehall.github.io/routes-of-europe-MS1/index.html)
 
 ---
@@ -115,14 +118,14 @@ Components that are used across each page (and are consistent throughout)
 
 The original wireframes differ slightly to the final layout of the website, this is because as I was developing the site naturally some changes occurred that seemed logical to improve UX.
 
-<img align="left"  src="assets/img/wf1.png">
+<img align="left"  src="readme-img/wf1.png">
 
 
-<img align="right"  src="assets/img/wf2.png">
+<img align="right"  src="readme-img/wf2.png">
 
 -
 
-<img align="left"  src="assets/img/wf3.png">
+<img align="left"  src="readme-img/wf3.png">
 
 <br clear="both"/>
 
@@ -143,7 +146,7 @@ Changes made throughout development
 
 #### Colour
 
-![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](assets/img/palette.png)
+![Colour palette showing the following colours #FFFFFF #F5F5F5 #187795 #3A716D #0D0C1D](readme-img/palette.png)
 - #FFFFFF - the background colour for individual sections of the website and for some sections of text
 - #F5F5F5 - the overall background colour
 - #187795 - the form background colour
@@ -286,7 +289,7 @@ Click [here](testing.md) to view all testing carried out.
 ## Credits 
 
 ### Media
-- [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) - click here to see details of images and video used throughout the site
+- [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) - click [here](img-refs.md) to see details of images and video used throughout the site
 
 ### Content
 - [Code institute boiler template](https://github.com/Code-Institute-Org/gitpod-full-template) was used.
