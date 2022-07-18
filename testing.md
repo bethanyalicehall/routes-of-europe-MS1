@@ -3,28 +3,27 @@
 ## HTML validator
 ### Home page
 ![Screenshot of HTML validation results for home page]()
-For error 1, I replaced the name attribute with an id attribute.
-For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
-For error 3 and 4 I changed the buttons to links.
+- For error 1, I replaced the name attribute with an id attribute.
+- For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
+- For error 3 and 4 I changed the buttons to links.
 
 ![Screenshot of HTML validation results, no errors found]()
 
 
 ### Routes page
 ![Screenshot of HTML validation results for route page]()
-For error 1, I replaced the name attribute with an id attribute.
-For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
-For error 3-6, I changed each id to be unique and classed them together instead.
-
+- For error 1, I replaced the name attribute with an id attribute.
+- For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
+- For error 3-6, I removed the id attributes as they were not needed, as there was already a class attribute.
 ![Screenshot of HTML validation results, no errors found]()
 
 
 ### Get in touch page
 ![Screenshot of HTML validation results for get in touch page]()
 
-For error 1, I replaced the name attribute with an id attribute.
-For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
-For error 3 and 4 I removed the br elements within the unordered list.
+- For error 1, I replaced the name attribute with an id attribute.
+- For error 2, this was the only way I found in providing textual context to the background image as the image itself was within CSS.
+- For error 3 and 4 I removed the br elements within the unordered list.
 
 ![Screenshot of HTML validation results, no errors found]()
 
