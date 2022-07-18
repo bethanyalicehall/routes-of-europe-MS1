@@ -235,8 +235,10 @@ The footer includes a copyright, an arrow to click to take you back to the top o
 #### Map
 A map could be added to each route to show the exact location of each stop within the route
 
-#### Form submission conformation
-Include a modal that appears once the form has been submitted, saying "Submission succesful"
+
+#### Form 
+- Include a modal that appears once the form has been submitted, saying "Submission succesful"
+- Include the user to only be allowed to choose dates within the future, not the past.
 
 #### Affiliate links
 Potential to have a separate page with backpacking essentials and affiliate links.
