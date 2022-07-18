@@ -206,7 +206,7 @@ Bootstrap has been used throughout the website to allow for a responsive design,
 - Alt attributes have been added to all images and the video
 - Text size, font and colour were considered in a way to hopefully provide clear, easy reading.
 - A grey background colour is behind the hero images so if the images were not to load, text would still be readable.
-- Lighthouse testing was carried out which looked at accessibility, see [Testing](#testing) section. 
+- Wave was used to carry out testing which looked at accessibility, see [Testing](#testing) section. 
 
 ### Meta data
 Meta tags are included within the head element, including a description, the author and keywords. 
