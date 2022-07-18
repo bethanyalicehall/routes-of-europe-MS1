@@ -156,7 +156,7 @@ I chose these colours as I wanted a clean, minimalistic look, but still with spl
 
 It was hard to stick to a colour scheme within the imagery as the content of the images was incredibly varied. However I think as my main colour scheme of the website is quite minimal, the varying coloured images work quite well. Each image is clear and of good size, they are responsive for differing sizes of devices.
 
-Click [here](media-sources.mdmd) to see details of images and video used throughout the site
+Click [here](media-sources.md) to see details of images and video used throughout the site
 
 - Hero images 
     - I chose bold and scenic images for each hero image. The Amalfi coast, Bruges, and Amsterdam. On each I included a black colour overlay to mute it slightly. I chose images from the same photographer, to keep within a theme.
@@ -294,7 +294,7 @@ Click [here](testing.md) to view all testing carried out.
 ## Credits 
 
 ### Media
-- [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) - click [here](media-sources.mdmd) to see details of images and video used throughout the site
+- [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) - click [here](media-sources.md) to see details of images and video used throughout the site
 
 ### Content
 - [Code institute boiler template](https://github.com/Code-Institute-Org/gitpod-full-template) was used.
