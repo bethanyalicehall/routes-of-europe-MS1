@@ -311,6 +311,7 @@ Click [here](testing.md) to view all testing carried out.
 I would like to thank
 - My mentor, Brian Macharia for uidance throughout the process.
 - Pasquale Fasulo for running sessions to help me feel prepared for the project.
+- The photographers who publish royalty free images on Pexels and Unsplash that allowed me to use high quality imagery throughout.
 - All of the code institute team, for providing quality learning content to allow me to develop my skills to complete this project.
 
 ---
