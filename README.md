@@ -257,6 +257,8 @@ Potential to have a separate page with backpacking essentials and affiliate link
 - [Balsamiq](https://balsamiq.com/) - used to produce the wireframes.
 - [Coolors](https://coolors.co/) - used to create a colour palette for the website.
 - [Techsini](https://techsini.com/multi-mockup/index.php) - used to create the multi device mockup.
+- [W3C HTML Validation service](https://validator.w3.org/) - used to validate HTML
+- [W3C Jigsaw CSS Validation service](https://jigsaw.w3.org/css-validator/) - used to validate CSS
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for perfromance testing.
 - [Wave](https://wave.webaim.org/) - for accessibility testing.
 - [Chrome developer tools](https://developer.chrome.com/docs/devtools/) - for testing responsiveness throughout.
