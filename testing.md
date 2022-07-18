@@ -153,12 +153,12 @@ The following browsers we used to check compatibility with the website
 ## Identified bugs
 
 - Bug: On the routes page I noticed that when clicking left or right on the second or third carousel it was controlling the first and not the one that was being clicked.
-- How I fixed it: I realised that each carousel had the same id as I had copied and pasted without realising, once this was corrected the error was solved.
+    - How I fixed it: I realised that each carousel had the same id as I had copied and pasted without realising, once this was corrected the error was solved.
 
 - Bug: The text on the get in touch page, explaining the next steps, when viewed on a mobile device was slightly off centre to the right.
-- How I fixed it: I changed the text from an unordered list with list items, to individual paragraphs, and this allowed the text to be aligned to the centre.
+    - How I fixed it: I changed the text from an unordered list with list items, to individual paragraphs, and this allowed the text to be aligned to the centre.
 
 - Bug: When viewed on smaller screen sizes the carousel images appeared unequal in size.
-- How I fixed it: I used an image resizer to make sure images had the same dimensions.
+    - How I fixed it: I used an image resizer to make sure images had the same dimensions.
 
 - Unfixed bug - when first loading the page the pin drop icon that is part of the logo, it appears as text for a second before changing to the icon.
