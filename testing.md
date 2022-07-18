@@ -104,7 +104,45 @@ I utilised [Wave](https://wave.webaim.org/) which is a web accessibility evaluat
 The following browsers we used to check compatibility with the website
 - Chrome
 - Safari
+- Microsoft Edge
 
 ## Testing User Stories
+
+### As a new user I want ...
+- The purpose of the website to be clear.
+    - The first section of text underneath the hero image explains what the company is all about
+
+![Screenshot of who we are section](readme-img/user-about.png)
+
+- To easily navigate the website, to learn more about travelling around Europe.
+    - Clear navigation bar that links to route page with information about where you can travel in Europe.
+    
+![Screenshot of navigation bar](readme-img/user-nav.png)
+
+- To find readily available informaiton about the business and have clear contact options if I want to find out more.
+    - There is a form to get in touch and social media links within the footer
+
+### As a returning user I want ...
+- Inspiring imagery and information to give me ideas for my next trip I will book through the website.
+    - Hero images are eye catching and the route cards contain short but interesting sections of information alongisde a carousel of images.
+
+![Screenshot of hero section](readme-img/user-hero.png)
+![Screenshot of Brilliant Balkans route card](readme-img/user-route.png)
+
+- A website that is easy to use and works well on mobile, tablet, and desktop.
+    - The website has been fully tested and is responsive on all device sizes.
+
+### As the business owner I want ...
+- To increase awareness of the business.
+    - Key words have been included within the meta tags to allow for search engine optimisation.
+- To increase trip planning requests to allow the business to grow financially.
+    - There is an extra link on the home page taking the user directly to the form, to encourage requests.
+
+![Screenshot of link to take user to form](readme-img/user-letsgo.png)
+
+- To increase the businesses social media presence.
+    - There is a dedicated section to the Routes of Europe Facebook group, as well social media links within the footer. 
+![Screenshot of connect section](readme-img/user-connect.png)
+![Screenshot of socials links within footer](readme-img/user-socials.png)
 
 ## Known bugs
