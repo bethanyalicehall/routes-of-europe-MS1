@@ -203,11 +203,7 @@ a:hover {
   background-color: white;
 }
 
-#listSteps {
-  list-style: none;
-}
-
-#listSteps li {
+#listSteps p{
   padding: 10px;
 }
 
