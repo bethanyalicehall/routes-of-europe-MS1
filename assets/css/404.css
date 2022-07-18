@@ -4,12 +4,13 @@ body {
     font-family: 'Roboto', sans-serif;
   }
 
-.container {
-  color: #f5f5f5;
-  text-align: center;
+div {
   background-color: rgba(58, 113, 109);
   padding: 40px;
+  color: #f5f5f5;
+  text-align: center;
 }
+
 
   a {
     text-decoration: none;
