@@ -26,7 +26,7 @@ I corrected each error and re-checked the HTML through the validator, and it pas
 
 ## CSS validator
 I inputted code into the W3C validation service, initially this brought up two errors
-- Text-shadow format was not correct, I decided the text shadow of the text over the hero image was not neccessary so removed that.
+- Text-shadow format was not correct, I decided the text shadow of the text over the hero image was not necessary so removed that.
 - Font weight value was incorrect, I had used 200px instead of 200.
 - Once these errors were corrected no further errors were found.
 
@@ -36,10 +36,10 @@ I inputted code into the W3C validation service, initially this brought up two e
 ## Performance testing
 I utilised the [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) performance testing software.
 - The results of the lighthouse testing can be seen below for each page. 
-- On the first round of testing, the performace was quite low due to image size and bootstrap stylesheets slowing down the first paint of the page.
+- On the first round of testing, the performance was quite low due to image size and bootstrap stylesheets slowing down the first paint of the page.
 - I reduced the size of the images and used [Tinypng](https://tinypng.com/) to compress the images. As you can see below, the doing this increased the performance significantly. 
-- The accessibility is good although not 100%, this wil be looked into in more detail in the next section.
-- The search engine optimisation is good but slightly low due to the link to bring the user back up to the top of the page being unrawlable. 
+- The accessibility is good although not 100%, this will be looked into in more detail in the next section.
+- The search engine optimisation is good but slightly low due to the link to bring the user back up to the top of the page being uncrawlable. 
 ### Home page
 ![Screenshot of Lighthouse testing for home page](readme-img/home1.png)
 ![Screenshot of Lighthouse testing for home page](readme-img/2home.png)
@@ -55,15 +55,15 @@ I utilised the [Lighthouse](https://developer.chrome.com/docs/lighthouse/overvie
 ![Screenshot of Lighthouse testing for get in touch page](readme-img/2touch.png)
 
 
-## Accessability testing
+## Accessibility testing
 I utilised [Wave](https://wave.webaim.org/) which is a web accessibility evaluation tool.
 
-- One error was detected, that an empty button was present. This was the collapsable hamburger navbar button, which was adapted from Bootstrap documentation. It works well so I decided to leave it as it is, however will consider that in future projects.
+- One error was detected, that an empty button was present. This was the collapsible hamburger navbar button, which was adapted from Bootstrap documentation. It works well so I decided to leave it as it is, however will consider that in future projects.
 - The contrast ratio was good throughout and passed the tests for normal and large text, apart from the testimonial cards, so I made the background colour darker to increase readability, it then passed the tests.
 - The social media links within the footer did not all have titles, this error was corrected.
 
 ## Responsiveness
-- I utilised Chrome Developer tools to test responsiveness on different devices, the following devices were succesfully tested through this.
+- I utilised Chrome Developer tools to test responsiveness on different devices, the following devices were sucesfully tested through this.
     - iPhone SE
     - iPhone XR
     - iPhone 6/7/8
@@ -99,7 +99,7 @@ Each of the following tests were carried out on a Macbook Air and an iPhone 12 p
     - The video is paused until the user decides to play it.
 
 - The form does not allow wrong input types to by inputted.
-    - An alert will apear when attempting to submit if wrong input type has been used.
+    - An alert will appear when attempting to submit if wrong input type has been used.
 
 - A 404 error page will appear if an incorrect url is entered
     - This works as expected and has a link to go back to home page
@@ -124,12 +124,12 @@ The following browsers we used to check compatibility with the website
 
 ![Screenshot of navigation bar](readme-img/user-nav.png)
 
-- To find readily available informaiton about the business and have clear contact options if I want to find out more.
+- To find readily available information about the business and have clear contact options if I want to find out more.
     - There is a form to get in touch and social media links within the footer
 
 ### As a returning user I want ...
 - Inspiring imagery and information to give me ideas for my next trip I will book through the website.
-    - Hero images are eye catching and the route cards contain short but interesting sections of information alongisde a carousel of images.
+    - Hero images are eye catching and the route cards contain short but interesting sections of information alongside a carousel of images.
 
 ![Screenshot of hero section](readme-img/user-hero.png)
 ![Screenshot of Brilliant Balkans route card](readme-img/user-route.png)
